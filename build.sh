@@ -1,4 +1,4 @@
 #!/bin/sh
 
-echo "build success"
+echo "build great success"
 
